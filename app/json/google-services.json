@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "300040109502",
+    "project_id": "mllanguagetranslate",
+    "storage_bucket": "mllanguagetranslate.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300040109502:android:4c131e6c2ca8a4435e4def",
+        "android_client_info": {
+          "package_name": "com.example.mllanguagetranslate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMIucZ071H2d8JqGIUoIDMcqP3Qqonrro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300040109502:android:799adc93917188da5e4def",
+        "android_client_info": {
+          "package_name": "com.example.mltranslate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMIucZ071H2d8JqGIUoIDMcqP3Qqonrro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
