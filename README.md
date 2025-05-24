@@ -10,7 +10,7 @@ Offline Support – Works even without internet using downloaded models.
 Built with ML Kit – Leverages Google’s powerful ML APIs for accuracy.
 
 ## App Screenshots
-![image 1](C:\Users\Chithra\OneDrive\Pictures\Screenshots)
+![image 1](https://github.com/chith-123/ML-language-Translator/blob/master/Screenshot%202025-05-13%20090055.png)
 
 ## How to Use
 Clone the repository:
@@ -27,5 +27,3 @@ Google ML Kit (Text Recognition & Translation API)
 Firebase (if connected for analytics or crash reporting)
 XML for UI design
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
