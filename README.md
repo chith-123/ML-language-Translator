@@ -10,7 +10,7 @@ Offline Support – Works even without internet using downloaded models.
 Built with ML Kit – Leverages Google’s powerful ML APIs for accuracy.
 
 ## App Screenshots
-![image 1](
+![image 1](C:\Users\Chithra\OneDrive\Pictures\Screenshots)
 
 ## How to Use
 Clone the repository:
